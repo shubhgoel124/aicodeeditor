@@ -5,7 +5,7 @@ export default function Home() {
   return (
   
     
-    <div>
+    <div className="flex flex-col items-center justify-center">
       <Button>Click me</Button>
     </div>
   );
